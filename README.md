@@ -8,7 +8,15 @@ Movies App
   </a>
 </p>
 
-Games API Rawg.io - https://www.themoviedb.org/
+Movies API Rawg.io - https://www.themoviedb.org/
 
 ### Technical Specs
 - Language: [Kotlin](https://kotlinlang.org/)
+
+### Features
+-
+
+### Future
+-
+
+### ScreenShoots
